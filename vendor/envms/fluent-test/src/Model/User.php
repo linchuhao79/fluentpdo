@@ -16,7 +16,4 @@ class User {
     /** @var string */
     public $type;
 
-    /** @var string */
-    public $name;
-
 }
